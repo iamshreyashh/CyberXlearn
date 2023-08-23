@@ -1,9 +1,10 @@
 # Hola, amigo
-Created this space for you to get access to essential resources for getting started with the Cyber Security.\
+*******Created this space for you to get access to all getting started cybersecurity resources*******\
+\
 ![sites-légaux-du-Deep-Web-les-plus-intéréssants](https://github.com/iamshreyashh/CyberXlearn/assets/83861666/27e45a78-6116-47b0-a9bd-53770b134d82)
 Below are some links to various skills that you first need to learn and master before you begin, Good luck ;) 
 
-
+#Let's get started 
 # 1. Understading Cryptography:
 ![Kryptos-ED](https://github.com/iamshreyashh/CyberXlearn/assets/83861666/1e7ba9ee-f658-48a7-8550-7725a5c01923)
 
